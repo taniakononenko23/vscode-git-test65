@@ -3,9 +3,6 @@
     width: 100px;
     background-color: coral;
     position: absolute;
-    animation: move 4s;
-    animation-iteration-count: 4;
-    animation-duration: alternate;
 }
 
 @keyframes move{
